@@ -11,9 +11,8 @@ h1 {
 }
 
 .booklist {
-  width: 90vh;
   max-width: 70%;
-  margin: 5rem auto;
+  margin: 100px auto;
   display: grid;
   gap: 2rem;
 }
@@ -44,4 +43,8 @@ p {
 
 h3 {
   color: #b3b3b3;
+}
+h1 {
+  margin-top: 5rem;
+  font-size: 3.5rem;
 }
