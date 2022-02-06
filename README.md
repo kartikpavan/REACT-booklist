@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployed using 
+https://react-basicbook-app-2022.netlify.app/
 
 ## Available Scripts
 
